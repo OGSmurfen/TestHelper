@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ТестПомощ</string>
+    <string name="top_app_bar_txt">Тесто Помагач (УНИЩОЖИТЕЛ)</string>
+    <string name="home_screen_txt">Начален екран</string>
+    <string name="home">Начало</string>
+    <string name="home_content_description">Отидете на началния екран</string>
+    <string name="subjects">Предмети</string>
+    <string name="toggle_hamburger_c_d">Взаимодействане с менюто</string>
+    <string name="subjects_c_d">Към екран предмети</string>
+    <string name="about">Информация</string>
+    <string name="about_c_d">Към екран информация</string>
+    <string name="subject_title">Име на предмета</string>
+    <string name="add">добави</string>
+    <string name="menu">Меню</string>
+    <string name="tests">Тестове</string>
+    <string name="tests_c_d">Към екран - тестове</string>
+    <string name="add_test_c_d">Добави Тест</string>
+    <string name="select_subject">Избери Предмет</string>
+    <string name="test_title">Име на Теста</string>
+    <string name="test_description">Описание на теста (Обясни подробно всичко, на което трябва да се подготвиш)</string>
+    <string name="add_new_test">Добави Тест</string>
+    <string name="save">Добави</string>
+    <string name="cancel">Прекрати</string>
+    <string name="no_date_selected">Избери Датата на Теста</string>
+    <string name="pick_date_c_d">Избери дата за теста</string>
+    <string name="detailed_test_information">View Details</string>
+    <string name="papasmurfie_itch">https://papasmurfie.itch.io/</string>
+    <string name="google_play_slickrick"><![CDATA[https://play.google.com/store/apps/details?id=com.PapaSmurfie.SlickRick&hl=en]]></string>
+    <string name="flappytank_steam">https://store.steampowered.com/app/3283070/Flappy_Tank/</string>
+    <string name="notification_channel_name">channel_name</string>
+    <string name="notification_channel_description">channel_description</string>
+    <string name="smiley">:)</string>
+    <string name="about_information">Информация\nPapaSmurfie е Indie Dev\nРазгледайте и други приложения от PapaSmurfie:</string>
+    <string name="delete_subject_c_d">Изтриване на предмет</string>
+    <string name="modfy_subject">Промяна Предмет</string>
+    <string name="change_subject_title">Промяна Предмет</string>
+    <string name="delete_test_c_d">Изтрий тест</string>
+    <string name="no_selected_test_day">Не е избран ден съдържащ тест</string>
+    <string name="cant_setup_notification">Тест Добавен \n Извистие НЕ създадено</string>
+    <string name="successful_notification_setup">Тест Добавен\nИзвестяване на предния ден</string>
+    <string name="test_tomorrow">Предстои тест утре</string>
+    <string name="OK">OK</string>
+    <string name="click_to_play_more">Още от разработчика</string>
+    <string name="click_to_play_game">Кликни - към играта!</string>
+</resources>

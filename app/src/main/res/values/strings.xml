@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">TestHelper</string>
+    <string name="top_app_bar_txt">Test Helper (DESTROYER)</string>
+    <string name="home_screen_txt">Homescreen</string>
+    <string name="home">Home</string>
+    <string name="home_content_description">Go to home screen</string>
+    <string name="subjects">Subjects</string>
+    <string name="toggle_hamburger_c_d">Toggle Menu Drawer</string>
+    <string name="subjects_c_d">Go to subjects screen</string>
+    <string name="about">About</string>
+    <string name="about_c_d">Go to about screen</string>
+    <string name="subject_title">Subject title</string>
+    <string name="add">add</string>
+    <string name="menu">Menu</string>
+    <string name="tests">Tests</string>
+    <string name="tests_c_d">Go to tests screen</string>
+    <string name="add_test_c_d">Create new test</string>
+    <string name="select_subject">Select Subject</string>
+    <string name="test_title">Test Title</string>
+    <string name="test_description">Test Description (Write thoroughly everything you need to study for that test)</string>
+    <string name="add_new_test">Add New Test</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_date_selected">Select date of test</string>
+    <string name="pick_date_c_d">Pick a date</string>
+    <string name="detailed_test_information">View Details</string>
+    <string name="papasmurfie_itch">https://papasmurfie.itch.io/</string>
+    <string name="google_play_slickrick"><![CDATA[https://play.google.com/store/apps/details?id=com.PapaSmurfie.SlickRick&hl=en]]></string>
+    <string name="flappytank_steam">https://store.steampowered.com/app/3283070/Flappy_Tank/</string>
+    <string name="notification_channel_name">channel_name</string>
+    <string name="notification_channel_description">channel_description</string>
+    <string name="smiley">:)</string>
+    <string name="about_information">About\nPapaSmurfie is an Indie Dev\nCheck out more from PapaSmurfie below:</string>
+    <string name="delete_subject_c_d">Delete subject</string>
+    <string name="modfy_subject">Modify Subject</string>
+    <string name="change_subject_title">Modify subject</string>
+    <string name="delete_test_c_d">Delete test</string>
+    <string name="no_selected_test_day">No test day selected</string>
+    <string name="cant_setup_notification">Event Created Successfully\n Notification NOT created</string>
+    <string name="successful_notification_setup">Event Created Successfully\nYou WILL be notified 1 day prior</string>
+    <string name="test_tomorrow">You have a test tomorrow</string>
+    <string name="OK">OK</string>
+    <string name="click_to_play_more">More from the dev</string>
+    <string name="click_to_play_game">Click to play!</string>
+</resources>
